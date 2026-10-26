@@ -1,0 +1,1 @@
+# t2 de deep learning. CNN para regressao de peso (kg) e altura (cm) de boi.
